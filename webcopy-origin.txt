@@ -1,0 +1,832 @@
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/404.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\404.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/about.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\about.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/blog-single.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\blog-single.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/blog.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\blog.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/contact.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\contact.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/css/all.min.css
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\css\all.min.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/css/animate.css
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\css\animate.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/css/custom.css
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\css\custom.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/css/slicknav.min.css
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/faq.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\faq.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/404-img.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\404-img.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/about-1.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/about-2.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/about-3.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\about-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/about-right-shape.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\about-right-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/about-slide-1.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\about-slide-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/author-1.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/author-2.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/author-3.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/client-1.png
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\client-1.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/client-2.png
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\client-2.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/client-3.png
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\client-3.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/client-4.png
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\client-4.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/client-5.png
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\client-5.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/cta-image.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\cta-image.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/email-img.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\email-img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/favicon.png
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\favicon.png
+Content Type: image/png
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/follow-img.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\follow-img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/footer-bg.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\footer-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/footer-logo.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/header-banner.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\header-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/hero-2.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\hero-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/hero-3-right-img.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\hero-3-right-img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/hero-3.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\hero-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/hero.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-award.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-award.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-benefits-1.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-benefits-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-benefits-2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-benefits-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-benefits-3.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-benefits-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-benefits-4.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-benefits-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-benefits-5.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-benefits-5.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-benefits-6.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-benefits-6.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-blockquote.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-blockquote.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-capicity.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-capicity.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-category.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-category.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-checkmark.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-checkmark.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-client.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-client.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-commercial.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-commercial.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-cta-phone.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-cta-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-customer.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-customer.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-date.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-date.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-domestic.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-domestic.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-down.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-down.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-email.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-email.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-energy.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-energy.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-feature-1.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-feature-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-feature-2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-feature-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-feature-3.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-feature-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-follow.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-follow.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-happy-clients.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-happy-clients.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-left.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-left.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-link-dark.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-link-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-link.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-link.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-location.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-location.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-mail.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-phone.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-play.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-play.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-pricing-1.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-pricing-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-pricing-2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-pricing-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-pricing-3.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-pricing-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-process-1.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-process-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-process-2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-process-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-process-3.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-process-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-project.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-project.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-quote.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-quote.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-ratting.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-ratting.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-right-2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-right-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-right.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-right.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-service-1.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-service-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-service-2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-service-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-service-3.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-service-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-service-4.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-service-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-service-5.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-service-5.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-service-6.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-service-6.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-service3-1.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-service3-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-service3-2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-service3-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-service3-3.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-service3-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-solor.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-solor.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-star-yellow.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-star-yellow.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-star.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-star.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-step-1.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-step-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-step-2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-step-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-step-3.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-step-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-step-right.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-step-right.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-step1.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-step1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-step2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-step2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-sub-heading.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-sub-heading.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-why3-1.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-why3-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-why3-2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-why3-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-why3-3.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-why3-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-why3-4.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-why3-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-whyus-1.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-whyus-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-whyus-2.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-whyus-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-whyus-3.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-whyus-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/icon-whyus-4.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\icon-whyus-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/loader.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/location-img.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\location-img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/logo.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/map-bg-img.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\map-bg-img.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/our-story.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\our-story.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/phone-img.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\phone-img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/planning.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\planning.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/play-green.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\play-green.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/play.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\play.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/post-1.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/post-2.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/post-3.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/post-4.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/post-5.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/post-6.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\post-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/post-mask-img.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\post-mask-img.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/project-1.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\project-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/project-2.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\project-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/project-3.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\project-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/project-4.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\project-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/project-5.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\project-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/project-6.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\project-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/project-7.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\project-7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/project-8.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\project-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/project-mask-img.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\project-mask-img.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/project-single.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\project-single.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/service-1.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/service-2.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/service-3.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/service-4.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/service-5.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/service-6.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/service-cta.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\service-cta.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/service-feature-img.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\service-feature-img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/service-mask-img.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\service-mask-img.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/team-1.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/team-2.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/team-3.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/team-4.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/team-5.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/team-6.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\team-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/team-7.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\team-7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/team-8.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\team-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/team-mask-img.svg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\team-mask-img.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/team-single.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\team-single.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/video-bg.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/why-renewable-1.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\why-renewable-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/why-renewable-2.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\why-renewable-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/whyus-1.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\whyus-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/whyus-2.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\whyus-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/whyus-3.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\whyus-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/whyus-4.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\whyus-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/images/whyus-left-img.jpg
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\images\whyus-left-img.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/index-2-slider.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\index-2-slider.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/index-2-video.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\index-2-video.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/index-2.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\index-2.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/index-3-slider.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\index-3-slider.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/index-3-video.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\index-3-video.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/index-3.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\index-3.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/index-slider.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\index-slider.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/index-video.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\index-video.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/index.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\index.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/function.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\function.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/jquery.mb.YTPlayer.min.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\jquery.mb.YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/jquery.slicknav.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/magiccursor.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\magiccursor.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/parallaxie.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\parallaxie.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/SmoothScroll.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/splitType.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\splitType.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/validator.min.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\validator.min.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/js/wow.js
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\js\wow.js
+Content Type: application/javascript
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/project-single.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\project-single.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/projects.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\projects.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/service-single.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\service-single.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/services.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\services.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/team-single.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\team-single.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/team.html
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\team.html
+Content Type: text/html
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://demo.awaikenthemes.com/html-preview/solor/html/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\html-preview\solor\html\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Rubik:wght@400;500&display=swap
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pa8FsOs.ttf
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\s\rajdhani\v15\LDI2apCSOBg7S-QT7pa8FsOs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pb0EMOs.ttf
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\s\rajdhani\v15\LDI2apCSOBg7S-QT7pb0EMOs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v15/LDI2apCSOBg7S-QT7pbYF8Os.ttf
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\s\rajdhani\v15\LDI2apCSOBg7S-QT7pbYF8Os.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v15/LDIxapCSOBg7S-QT7q4A.ttf
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\s\rajdhani\v15\LDIxapCSOBg7S-QT7q4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: C:\Downloaded Web Sites\demo.awaikenthemes.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
