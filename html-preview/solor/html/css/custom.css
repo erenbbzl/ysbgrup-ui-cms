@@ -651,7 +651,7 @@ header.main-header .header-sticky.active{
 	width: 100%;
 	height: 3px;
 	width: 22px;
-	background-color: #3070b4;
+	background-color: #fff;
 	margin: 4px auto !important;
 }
 
@@ -674,14 +674,14 @@ header.main-header .header-sticky.active{
 	font-weight: 400;
 	padding: 10px 15px;
 	font-family: var(--default-font);
-	color: #3070b4;
+	color: #fff;
 	line-height: normal;
 }
 
 .slicknav_nav a:hover,
 .slicknav_nav .slicknav_row:hover{
 	background-color: transparent;
-	color: #3070b4;
+	color: #fff;
 }
 
 .slicknav_arrow{
@@ -2172,7 +2172,7 @@ header.main-header .header-sticky.active{
 
 .why-chooseus-layout2 .why-choose-us-img-box{
 	position: relative;
-	background: url(../images/whyus-left-img.jpg) no-repeat center center;
+	background: url(../images/whyus-left-img.png) no-repeat center center;
 	background-size: cover;
 	padding: 100px 15px;
 	height: 100%;
@@ -2466,13 +2466,15 @@ header.main-header .header-sticky.active{
 
 .blog-item .post-item-body{
 	position: absolute;
-	left: 20px;
-	right: 20px;
-	bottom: 20px;
-	background: var(--white-color);
-	border-radius: 30px;
-	padding: 25px;
-	z-index: 4;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+    background: var(--white-color);
+    border-radius: 30px;
+    padding: 25px;
+    z-index: 4;
+    border: 1px solid;
+    border-color: #0d6efd;
 }
 
 .blog-item .post-item-body h2{
@@ -4590,9 +4592,11 @@ footer.main-footer{
 
 .post-featured-image{
 	max-width: 1180px;
-	margin: 0 auto 40px;
-	border-radius: 30px;
-	overflow: hidden;
+    margin: 0 auto 40px;
+    border-radius: 30px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #0d6efd;
 }
 
 .post-content{
@@ -4673,7 +4677,7 @@ footer.main-footer{
 
 .post-entry blockquote p{
 	font-size: 40px;
-	color: var(--accent-color);
+	color: #fff;
 	font-family: var(--accent-font);
 	font-weight: 700;
 	line-height: 1.2em;
@@ -4701,7 +4705,7 @@ footer.main-footer{
 	padding: 8px 24px;
 	border: 2px solid var(--accent-color);
 	background: var(--accent-color);
-	color: #3070b4;
+	color: #fff;
 	border-radius: 30px;
 	margin-left: 10px;
 	position: relative;
@@ -4731,7 +4735,7 @@ footer.main-footer{
 }
 
 .post-tags a:hover{
-	color: var(--accent-color);
+	color: #fff;
 }
 
 .post-social-sharing{
