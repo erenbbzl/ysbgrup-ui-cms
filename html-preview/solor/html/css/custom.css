@@ -1739,12 +1739,12 @@ header.main-header .header-sticky.active{
 }
 
 .our-process-layout2{
-	background: var(--secondary-color);
+	background: #ffff;
 	padding: 100px 0;
 }
 
 .process-item2{
-	background: var(--white-color);
+	background: #eff1ed;
 	max-width: 310px;
 	margin: 20px auto 0;
 	aspect-ratio: 1/1;
@@ -5114,6 +5114,8 @@ footer.main-footer{
 
 	.why-choose-us-layout2-content{
 		padding: 60px;
+		background-color: #fff;
+	
 	}
 
 	.our-process-layout2 .process-item2:after{
